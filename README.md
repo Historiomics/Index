@@ -5,4 +5,5 @@ Index
 * Software Studies
 * Critical Code Studies
 * Socionomics
+* Literate Programming
 * Historiomics

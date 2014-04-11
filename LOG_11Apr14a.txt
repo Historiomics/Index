@@ -1,3 +1,7 @@
-###LOG_11Apr14a.12h51
+LOG_11Apr14a
+
+###
+
+12:53 2014-04-11
 
 * Officially launched #IdiotCards Campaign.

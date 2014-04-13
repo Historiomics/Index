@@ -12,3 +12,8 @@ LOG_13Apr14a
 * Am broadcasting live, 24/7 from Everywhere All-at-Once.
 * This is 20+ years in the making, exactly how I planned it. It is 100% genuine, authentic A.G. (c) 1994-2014.
 * Proud to be North American. Documentation is slick and wonderful. All-the-Time, All-at-Once. "In One Fell Swoop" (#IOFS)
+
+18:28 2014-04-13
+
+* Experiencing technical difficulties. Tried to broadcast myself at the chalkboard, had trouble. Contrast and luminosity are not right. Will try again later, after I make some adjustments to set up.
+* We're broadcasting live now 24/7 on this channel. (Which channel? Do the math! Figure it out!)

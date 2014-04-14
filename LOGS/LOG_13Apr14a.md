@@ -17,3 +17,10 @@ LOG_13Apr14a
 
 * Experiencing technical difficulties. Tried to broadcast myself at the chalkboard, had trouble. Contrast and luminosity are not right. Will try again later, after I make some adjustments to set up.
 * We're broadcasting live now 24/7 on this channel. (Which channel? Do the math! Figure it out!)
+
+23:16 2014-04-13
+
+* RECORDS @ ---
+  * [Webcam video from April 13, 2014 11:09 PM ] (https://www.youtube.com/watch?v=xEiq42Pvn6k)
+  * [Webcam video from April 13, 2014 11:12 PM ] (https://www.youtube.com/watch?v=hJONlZo18NA)
+  * [#RECORDCARD_13Apr14a Week of April 6th-12th, 2014 pic.twitter.com/fTIxj2voBb] (https://twitter.com/antisignal/status/455541591474593792)

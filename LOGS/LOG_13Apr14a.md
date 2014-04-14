@@ -24,3 +24,8 @@ LOG_13Apr14a
   * [Webcam video from April 13, 2014 11:09 PM ] (https://www.youtube.com/watch?v=xEiq42Pvn6k)
   * [Webcam video from April 13, 2014 11:12 PM ] (https://www.youtube.com/watch?v=hJONlZo18NA)
   * [#RECORDCARD_13Apr14a Week of April 6th-12th, 2014 pic.twitter.com/fTIxj2voBb] (https://twitter.com/antisignal/status/455541591474593792)
+
+23:19 2014-04-13
+
+* [Crackland & The Crackland Journals - ABRIDGED - Published I] (http://databasearts.wordpress.com/2014/04/14/crackland-the-crackland-journalis-abridged/)
+* [Crackland & The Crackland Journals - ABRIDGED - Published II] (http://databasearts.blogspot.ca/2014/04/crackland-crackland-journals-abridged.html)

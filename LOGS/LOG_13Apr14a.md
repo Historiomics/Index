@@ -34,3 +34,8 @@ LOG_13Apr14a
 23:22 2014-04-13
 
 * [FACE DE SHNOOK INSTAGRAM PIC OF THE DAY] (http://instagram.com/p/mv6WZMC6nH/)
+
+23:30 2014-04-13
+
+* [FACE DE SHNOOK ON ANTISIGNAL.WORDPRESS.COM] (http://antisignal.wordpress.com/2014/04/13/face-de-shnook-autographpainter/)
+* [FACE DE SHNOOK TWEET VIA @ANTISELFIE] (https://twitter.com/antiselfie/status/455490400539914241)

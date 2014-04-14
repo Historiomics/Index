@@ -39,3 +39,5 @@ LOG_13Apr14a
 
 * [FACE DE SHNOOK ON ANTISIGNAL.WORDPRESS.COM] (http://antisignal.wordpress.com/2014/04/13/face-de-shnook-autographpainter/)
 * [FACE DE SHNOOK TWEET VIA @ANTISELFIE] (https://twitter.com/antiselfie/status/455490400539914241)
+* [Experiments as part of The Archives-Project I, #REFMATS] (http://fr.wikipedia.org/wiki/Gestion_des_documents_d'archives)
+* [Experiments as part of The Archives-Project II, #REFMATS] (http://en.wikipedia.org/wiki/Records_management)

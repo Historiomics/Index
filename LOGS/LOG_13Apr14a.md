@@ -30,3 +30,7 @@ LOG_13Apr14a
 * [Crackland & The Crackland Journals - ABRIDGED - Published I] (http://databasearts.wordpress.com/2014/04/14/crackland-the-crackland-journalis-abridged/)
 * [Crackland & The Crackland Journals - ABRIDGED - Published II] (http://databasearts.blogspot.ca/2014/04/crackland-crackland-journals-abridged.html)
 * [@THINGLINK Experiments launched earlier today] (https://www.thinglink.com/scene/512020220802498560)
+
+23:22 2014-04-13
+
+* [FACE DE SHNOOK INSTAGRAM PIC OF THE DAY] (http://instagram.com/p/mv6WZMC6nH/)

@@ -41,3 +41,11 @@ LOG_13Apr14a
 * [FACE DE SHNOOK TWEET VIA @ANTISELFIE] (https://twitter.com/antiselfie/status/455490400539914241)
 * [Experiments as part of The Archives-Project I, #REFMATS] (http://fr.wikipedia.org/wiki/Gestion_des_documents_d'archives)
 * [Experiments as part of The Archives-Project II, #REFMATS] (http://en.wikipedia.org/wiki/Records_management)
+
+23:32 2014-04-13
+
+* The eBook just published, made Live, Launched, etc. is here called Crackland & The Crackland Journals (ABRIDGED).
+* The book is actually a collection of notes, sketches, from circa 2001-2004, in what was originally called THE HISTORY-PROJECT.
+* @M.J. has been privy to discussions of The History-Project going on a few years.
+* @M.J. has his own project, #Nemetics, with others that will be mentioned in due time.
+* This is all a massive collaborative project with no one starter, launcher. It is IN_PERFECT_EMERGENCE.

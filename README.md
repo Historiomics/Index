@@ -1,7 +1,10 @@
 Index
 =====
-![Historiomics] (https://farm8.staticflickr.com/7268/13788604433_b9b2fd5dbe.jpg)
 * [The Art Operation in The 21st Century] (https://github.com/Historiomics/ArtOperations)
+* [Historiotopia] (https://github.com/Historiomics/Historiotopia)
+* [Historiomics] (https://github.com/Historiomics/Historiomics)
+* [ControlFlow] (https://github.com/Historiomics/ControlFlow)
+* [Quickcards] (https://github.com/Historiomics/Quickcards)
 * INSPIRATION FROM:
   * Culturomics
   * Cultural Analytics

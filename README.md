@@ -1,5 +1,6 @@
 Index
 =====
+* [Historiotheque] (https://github.com/Historiomics/Historiotheque)
 * [The Art Operation in The 21st Century] (https://github.com/Historiomics/ArtOperations); (*ALSO: [ART OPERATIONS ECOSYSTEM] (https://github.com/ArtOperations/ArtOperationsEcosystem));
 * [Historiotopia] (https://github.com/Historiomics/Historiotopia)
 * [Historiomics] (https://github.com/Historiomics/Historiomics)

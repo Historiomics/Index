@@ -14,7 +14,7 @@ Index
   * Socionomics;
   * Literate Programming
   * Signal Science
-  * Antisynthesi;s;
+  * Antisynthesis;
   * Historiomics;
   * (Critical) Code Review;
   * Code Genres;
